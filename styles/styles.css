@@ -1,0 +1,30 @@
+#body {
+    background-color: rgb(255, 249, 217);
+}
+
+#btn {
+    margin-left: 20px;
+    font-size: 20px;
+    background-color: tan;
+}
+
+#submit {
+    position: relative;
+    left: 33%;
+    margin-top: 10px;
+    background-color: rgb(180, 140, 110);
+}
+
+#form {
+    font-size: 15px;
+}
+
+#dialogBox {
+    background-color: rgb(225, 200, 160);
+    font-size: 17px;
+}
+
+.input {
+    margin-bottom: 10px;
+    background-color: rgb(255, 245, 215);
+}
